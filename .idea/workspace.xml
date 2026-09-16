@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d60374a-e2c9-4bd8-bd9c-18f32318afc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../360_F_745188744_KMNjnw02jUJVS2vCD3VRkDiIiiug3s64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/.idea/COURSE_REG_SYSTEM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/availablecourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/enrollment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/free-video-3163534.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/image" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/istockphoto-1463013729-612x612 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/myscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_REG_SYSTEM/webimaage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Canva.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/.idea/Course Registration SystemC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/.idea/Course Registration System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/java/com/example/Course/Registration/System/Controller/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/java/com/example/Course/Registration/System/CourseRegistrationSystemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/java/com/example/Course/Registration/System/Model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/java/com/example/Course/Registration/System/Model/CourseRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/java/com/example/Course/Registration/System/Repository/CourseRegistryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/java/com/example/Course/Registration/System/Repository/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/java/com/example/Course/Registration/System/Service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course Registration SystemC/Course Registration System/Course-Registration-System/src/test/java/com/example/Course/Registration/System/CourseRegistrationSystemApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Downloads - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eclipse IDE for Enterprise Java and Web Developers - 2025-06.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Front_End" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Microsoft Edge.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL Workbench 8.0 CE.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Car_Resale_Project.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/DML.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/DML_Task.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/DataBaseFetch_Using_Java.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Date_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/GYM_MANAGEMENT.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Healthcare_Project.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Stored_Procedure.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Stored_Procedures(DML).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/TCL_Task.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Table_CR.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Task1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Task2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Task3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Task4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Transaction Control Language(TCL).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Triggers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Triggers_Task.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Vehicle_Spare_Parts_Ecommerce_Website.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySql/Window_Function.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Naukrigulf Launcher.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Birthday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/CAR_RESALE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/CAR_RESALE.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/DB_connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/ExProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Mysql_py_conn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Open_Api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Rgular Expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/addd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/exception_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/file_handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/file_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/inherittence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/iter_gener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/listcomphrehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/rock_paper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python/use_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quick Share.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual Studio Code.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api_app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../colorpallate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/data/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/AddItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/ContentList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/ContentListLine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/Contentt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/RequstAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/SearchBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pop/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample_react" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spare_reasale_ecommerce" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3CCLgSGuKPNY4qwj1SivEwIjk5E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EcommerceSiteApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d60374a-e2c9-4bd8-bd9c-18f32318afc8" name="Changes" comment="" />
+      <created>1775884715205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775884715205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
