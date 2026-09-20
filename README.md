@@ -1,5 +1,3 @@
-# Ecommerce_System-using-Java
-
 # Spare Parts E-Commerce Platform
 
 A full-stack E-Commerce web application developed for buying and selling vehicle spare parts. The platform enables users to browse products, manage shopping carts, place orders, and securely access their accounts through authentication and authorization mechanisms.
