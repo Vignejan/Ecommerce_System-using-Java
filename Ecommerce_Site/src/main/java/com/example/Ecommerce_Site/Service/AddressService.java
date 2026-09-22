@@ -2,6 +2,7 @@ package com.example.Ecommerce_Site.Service;
 
 import com.example.Ecommerce_Site.Model.Address;
 import com.example.Ecommerce_Site.Repository.AddressRepo;
+import com.example.Ecommerce_Site.Service.Interface_Service.AddressServiceInt;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
@@ -9,7 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class AddressService {
+public class AddressService implements AddressServiceInt {
     @Autowired
     private AddressRepo addressRepo;
 

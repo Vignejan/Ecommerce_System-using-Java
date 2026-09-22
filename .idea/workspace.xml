@@ -134,6 +134,9 @@
       <change afterPath="$PROJECT_DIR$/../pop/src/setupTests.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sample_react" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spare_reasale_ecommerce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce_Site/src/main/java/com/example/Ecommerce_Site/Service/AddressService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce_Site/src/main/java/com/example/Ecommerce_Site/Service/AddressService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecommerce_Site/src/main/java/com/example/Ecommerce_Site/Service/Interface_Service/AddressServiceInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ecommerce_Site/src/main/java/com/example/Ecommerce_Site/Service/Interface_Service/AddressServiceInt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +153,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -193,6 +197,11 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="cd271646-01f0-45d9-9fae-5d1f63afe9e9" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -210,6 +219,11 @@
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+        <entry key="cd271646-01f0-45d9-9fae-5d1f63afe9e9">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
